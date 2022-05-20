@@ -1,3 +1,3 @@
-# heroes-bootstrap
+# features-bootstrap
 
-[URL](https://xxnahokxx.github.io/heroes-bootstrap/)
+[URL](https://xxnahokxx.github.io/features-bootstrap/)
